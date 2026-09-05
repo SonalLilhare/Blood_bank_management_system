@@ -162,8 +162,8 @@ Blood-Bank-Management-System/
  
 ## 📞 Contact Information
 
-   🐙 GitHub: https://github.com/pratikkhot100
+   🐙 GitHub: https://github.com/SonalLilhare
 
-   💼 LinkedIn: https://www.linkedin.com/in/pratikkhot01
+   💼 LinkedIn: https://www.linkedin.com/in/sonallilhare
 
-   📧 Email: pratikkhot1207@gmail.com
+   📧 Email: sonallilhare24@gmail.com
